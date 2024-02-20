@@ -1,1 +1,1 @@
-##practising github commands
+##practising githubs commands
